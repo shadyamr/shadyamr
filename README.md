@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm very passionate about technologies, games, and applications. I've been making websites since the age of 10 and haven't lost interest since then I started creating my first application at the age of 13.
 
 
-## I'm a Front-end Developer!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning almost everything
