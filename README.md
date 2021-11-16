@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi there 👋 - I'm Shady Amr</h1>
+<h1 align="center"> Hi there 👋 - I am Shady Amr</h1>
 
 
 <p align="center">
@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------
 
-I'm very passionate about technologies, games, and applications. I've been making websites since the age of 10 and haven't lost interest since then I started creating my first application at the age of 13.
+I am very passionate about technologies, games, and applications. I've been making websites since the age of 10 and haven't lost interest since then I started creating my first application at the age of 13.
 
 
-## I'm a Software Engineer!
+## I am a Programmer!
 
-- 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning almost everything
-- 👯 I’m looking to collaborate on an open source projects
-- 💬 Ask me about web development
+- 🔭 I am currently working on my personal portfolio
+- 🌱 I am currently learning almost everything
+- 👯 I am looking to collaborate on an open source projects
+- 💬 Ask me about web development and software development.
 - 📫 How to reach me: contact@shadyamr.me
 -------------------------------------------------------------
 
