@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://shadyamr.me">Portfolio</a> -
+  <a href="https://shadyamr.ml">Portfolio</a> -
   <a href="https://www.linkedin.com/in/shadyamr/">LinkedIn</a>
 </p>
 
@@ -32,7 +32,7 @@ I am very passionate about technologies, games, and applications. I've been maki
 - 🌱 I am currently learning almost everything
 - 👯 I am looking to collaborate on an open source projects
 - 💬 Ask me about web development and software development.
-- 📫 How to reach me: contact@shadyamr.me
+- 📫 How to reach me: contact@shadyamr.ml
 -------------------------------------------------------------
 
 ## Languages
