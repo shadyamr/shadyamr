@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------
 
-I am very passionate about technologies, games, and applications. I've been making websites since the age of 10 and haven't lost interest since then I started creating my first application at the age of 13.
+Very passionate about technologies, games, and applications.<br><br>I've been making websites since the age of 10 and haven't lost interest since then I started creating my first website at the age of 13.
 
 
 ## I am a Software Engineer!
@@ -38,8 +38,12 @@ I am very passionate about technologies, games, and applications. I've been maki
 ## Languages
 <a><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><a/>
 <a><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><a/>
+<a><img align="left" alt="Markup" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /><a/>
 <a><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><a/>
+<a><img align="left" alt="JQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /><a/>
 <a><img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /><a/>
+<a><img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><a/>
+<a><img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><a/>
 <a><img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><a/>
 <a><img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /><a/>
 <a><img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /><a/>
@@ -48,9 +52,12 @@ I am very passionate about technologies, games, and applications. I've been maki
 <br />
 <br />
 
-## Tools
+## Tools / Software / Operating Systems
 <a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-  <a><img align="left" alt="Sublime-Text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" /><a/>
+<a><img align="left" alt="Sublime-Text" width="30px" src="https://i.imgur.com/AYuRjIH.png" /><a/>
+<a><img align="left" alt="Figma" width="30px" src="https://camo.githubusercontent.com/db639beaeee1c24ed7979a95becbfb0e8067e8e0526d7ce3a74dcb488e6d41fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667" /><a/>
+<a><img align="left" alt="Windows" width="30px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" /><a/>
+<a><img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /><a/>
 
 <br />
 <br />
