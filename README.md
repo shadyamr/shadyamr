@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 I am very passionate about technologies, games, and applications. I've been making websites since the age of 10 and haven't lost interest since then I started creating my first application at the age of 13.
 
 
-## I am a Programmer!
+## I am a Software Engineer!
 
 - 🔭 I am currently working on my personal portfolio
 - 🌱 I am currently learning almost everything
 - 👯 I am looking to collaborate on an open source projects
-- 💬 Ask me about web development and software development.
+- 💬 Ask me about web and software development.
 - 📫 How to reach me: contact@shadyamr.ml
 -------------------------------------------------------------
 
