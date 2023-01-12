@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------
 
-Very passionate about technologies, games, and applications.<br><br>I've been making websites since the age of 10 and haven't lost interest since then I started creating my first website at the age of 13.
+Currently a Junior CS student at Misr International University. Very passionate about technologies, games, and applications.<br><br>I've been making websites since the age of 10 and haven't lost interest since then I started creating my first website at the age of 13.
 
 
-## I am a Software Developer!
+## I am a Security Software Developer!
 
 - 🔭 I am currently working on my personal portfolio
 - 🌱 I am currently learning almost everything
