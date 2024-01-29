@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://shadyamr.ml">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/shadyamr/">LinkedIn</a>
+  <a href="https://shadyamr.ml">Portfolio</a>
 </p>
 
 -----------------------------------------------------------
