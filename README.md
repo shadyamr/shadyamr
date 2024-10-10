@@ -9,10 +9,10 @@
 Currently a Cybersecurity Software Developer / Engineer. Very passionate about technologies, games, and applications.<br><br>I've been making websites since the age of 10 and haven't lost interest since then I started creating my first website at the age of 13.
 
 ## About Me:
-- 🔭 I am currently working on my personal portfolio
+- 🔭 I am currently working on my portfolio
 - 🌱 I am continuously learning new technologies and improving my skillset
-- 👯 I am looking to collaborate on open source projects
-- 💬 Ask me about cybersecurity (pen testing, network security, etc.), web, and software development.
+- 👯 I am looking to collaborate on open-source projects
+- 💬 Ask me about cybersecurity (penetration testing, network security, etc.), web, and software development.
 - 📫 How to reach me: shady@webvation.tech
 -------------------------------------------------------------
 
@@ -62,8 +62,8 @@ Currently a Cybersecurity Software Developer / Engineer. Very passionate about t
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/shadyamr/shadyamr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadyamr&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&env=PAT_1&count_private=true" />
+<img align="center" src="https://github-readme-stats-delta-six-93.vercel.app/api/top-langs/?username=shadyamr&hide=pawn,sourcepawn&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/shadyamr/shadyamr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadyamr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&env=PAT_1&count_private=true" />
+  <img align="center" src="https://github-readme-stats-delta-six-93.vercel.app/api?username=shadyamr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&env=PAT_1&count_private=true" />
 </a>
