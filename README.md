@@ -1,7 +1,7 @@
 <h1 align="center"> 🐪 Shady Amr</h1>
 
 <p align="center">
-  <a href="#">Portfolio</a>
+  <a href="https://shadyxo.xyz">Portfolio</a>
 </p>
 
 -----------------------------------------------------------
@@ -13,7 +13,7 @@ Currently a Cybersecurity Software Developer / Engineer. Very passionate about t
 - 🌱 I am continuously learning new technologies and improving my skillset
 - 👯 I am looking to collaborate on open-source projects
 - 💬 Ask me about cybersecurity (penetration testing, network security, etc.), web, and software development.
-- 📫 How to reach me: shady@webvation.tech
+- 📫 How to reach me: contact@shadyxo.xyz
 -------------------------------------------------------------
 
 ## Languages & Technologies
