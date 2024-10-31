@@ -25,7 +25,7 @@ Currently a Cybersecurity Software Developer / Engineer. Very passionate about t
 <a><img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
 <a><img align="left" alt="Vue.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" /></a>
 <a><img align="left" alt="Vite.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" /></a>
-<a><img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" /></a>
+<a><img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></a>
 <a><img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /></a>
 <a><img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
 <a><img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
