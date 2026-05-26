@@ -1,64 +1,87 @@
 <h1 align="center"> 🐪 Shady Amr</h1>
 
 <p align="center">
-  <a href="https://shadyxo.xyz">Portfolio</a>
+  <b>Cybersecurity • DevOps • Infrastructure • Software Development</b>
+</p>
+
+<p align="center">
+  Building secure, scalable, and practical systems across cloud, automation, web, and infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://shadyxo.xyz">Portfolio</a> •
+  <a href="mailto:contact@shadyxo.xyz">Email</a>
 </p>
 
 -----------------------------------------------------------
 
-Currently a Cybersecurity Software Developer / Engineer. Very passionate about technologies, games, and applications.<br><br>I've been making websites since the age of 10 and haven't lost interest since then I started creating my first website at the age of 13.
+## About Me
+I am a cybersecurity-focused technologist with hands-on experience across software development, infrastructure, DevOps, automation, and network operations.
 
-## About Me:
-- 🔭 I am currently working on my portfolio
-- 🌱 I am continuously learning new technologies and improving my skillset
-- 👯 I am looking to collaborate on open-source projects
-- 💬 Ask me about cybersecurity (penetration testing, network security, etc.), web, and software development.
-- 📫 How to reach me: contact@shadyxo.xyz
+My journey started early with web development, building websites from a young age and eventually expanding into secure software engineering, cloud infrastructure, system administration, and cybersecurity. Over time, I have worked on web applications, internal automation tools, ERP-style systems, game server systems, infrastructure deployments, and security-focused solutions.
+
+Currently, I work in a real-world IT and infrastructure environment where I handle endpoint security, automation, system support, network troubleshooting, cloud services, and internal tooling. I am especially interested in roles and projects around Cybersecurity, DevOps, DevSecOps, Cloud, and Infrastructure Engineering.
+
 -------------------------------------------------------------
 
-## Languages & Technologies
-<a><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
-<a><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-<a><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-<a><img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a>
-<a><img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
-<a><img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
-<a><img align="left" alt="Vue.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" /></a>
-<a><img align="left" alt="Vite.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" /></a>
-<a><img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></a>
-<a><img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /></a>
-<a><img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
-<a><img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
-<a><img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /></a>
-<a><img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></a>
-<a><img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
-<a><img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
 
-<br />
-<br />
+# Tech Stack
 
-## Tools / Software / Operating Systems
-<a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
-<a><img align="left" alt="Cisco Packet Tracer" width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" /></a>
-<a><img align="left" alt="Kali Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" /></a>
-<a><img align="left" alt="RedHat" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" /></a>
-<a><img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" /></a>
-<a><img align="left" alt="Windows" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" /></a>
-<a><img align="left" alt="Figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" /></a>
-<a><img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" /></a>
-<a><img align="left" alt="Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" /></a>
-<a><img align="left" alt="Putty" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" /></a>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
-<br />
-<br />
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## Version Control
-<a><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
-<a><img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
-<a><img align="left" alt="GitLab" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" /></a>
+### Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-<br />
-<br />
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+
+---
+
+## Certifications & Learning
+
+- Cisco Certified Network Associate (CCNA)
+- Cisco DevNet Associate
+- Red Hat System Administration I & II
+- Fortinet Certified Associate Cybersecurity
+- AWS Cloud Practitioner Essentials
+- Red Hat OpenShift Development I
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/shadyamr/shadyamr">
